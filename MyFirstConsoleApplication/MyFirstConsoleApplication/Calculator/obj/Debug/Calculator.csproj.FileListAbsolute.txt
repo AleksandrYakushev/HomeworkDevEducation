@@ -1,0 +1,40 @@
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb

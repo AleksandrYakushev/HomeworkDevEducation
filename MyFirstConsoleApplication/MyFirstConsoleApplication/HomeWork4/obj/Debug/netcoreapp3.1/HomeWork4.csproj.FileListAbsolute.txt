@@ -1,0 +1,53 @@
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Александр\source\repos\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\wow-n\Downloads\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\wow-n\OneDrive\Рабочий стол\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\Desktop\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\HW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.deps.json
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\bin\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.AssemblyInfo.cs
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.dll
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.pdb
+C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork4\obj\Debug\netcoreapp3.1\HomeWork4.csprojAssemblyReference.cache
