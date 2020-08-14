@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeWork1.Tests\HomeWork1.Tests.csproj" />
+    <ProjectReference Include="..\HomeWork1\HomeWork1.csproj" />
+    <ProjectReference Include="..\HomeWork2.Tests\HomeWork2.Tests.csproj" />
+    <ProjectReference Include="..\HomeWork2\HomeWork2.csproj" />
+    <ProjectReference Include="..\HomeWork3\HomeWork3.csproj" />
+    <ProjectReference Include="..\HomeWork4.Tests\HomeWork4.Tests.csproj" />
+    <ProjectReference Include="..\HomeWork4\HomeWork4.csproj" />
+    <ProjectReference Include="..\HomeWork5.Tests\HomeWork5.Tests.csproj" />
+    <ProjectReference Include="..\HomeWork5\HomeWork5.csproj" />
+    <ProjectReference Include="..\HomeWork6.Tests\HomeWork6.Tests.csproj" />
+    <ProjectReference Include="..\HomeWork6\HomeWork6.csproj" />
+    <ProjectReference Include="..\HomeWork7\HomeWork7.csproj" />
+  </ItemGroup>
+
+</Project>
