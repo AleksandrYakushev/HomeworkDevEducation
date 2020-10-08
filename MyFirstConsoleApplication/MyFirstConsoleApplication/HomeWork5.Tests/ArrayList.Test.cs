@@ -4,11 +4,6 @@ namespace HomeWork5.Tests
 {
     public class ArrayListTest
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [TestCase(new[] { 1, 4, 6, 4 }, 13, new[] { 13, 1, 4, 6, 4 })]
         [TestCase(new[] { 0, 4, 6, 4 }, 0, new[] { 0, 0, 4, 6, 4 })]
         public void AddFirstTest(int[] sourceArray, int val, int[] expected)
@@ -244,14 +239,14 @@ namespace HomeWork5.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { -7, -1, -1, 0, 1, 4, 4, 12 })]
+        [TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { 12, 4, 4, 1, 0, -1, -1, -7 })]
         [TestCase(new[] { 0 }, new[] { 0 })]
-        [TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { -8, 1, 2, 3, 5, 7, 9, 43 })]
+        [TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { 43, 9, 7 , 5, 3, 2, 1, -8 })]
         public void SortDeskTest(int[] sourceArray, int[] expected)
-        //- сортировка по возрастанию
+        //- сортировка по убыванию
         {
             ArrayList array = new ArrayList(sourceArray);
-            array.Sort();
+            array.SortDesc();
             int[] actual = array.ToArray();
             Assert.AreEqual(expected, actual);
         }

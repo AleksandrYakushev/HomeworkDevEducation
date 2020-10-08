@@ -82,26 +82,32 @@ namespace HomeWork6.Tests
             }
         }
 
-        [TestCase(new[] { 17, 24, 1 }, new int[] { 17, 24, 1 })]
-        [TestCase(new[] { 0 }, new int[] { 0 })]
-        public void AddFirstArrTest(int[] arr, int[] expected)
+        [TestCase(new[] { 1, 2, 3 }, new[] { 17, 24, 1 }, new int[] { 17, 24, 1, 1, 2, 3 })]
+        [TestCase(new[] { 1, 2, 3 }, new[] { -3, -9 }, new int[] { -3, -9, 1, 2, 3 })]
+        [TestCase(new[] { 1, 2, 3 }, new[] { 0 }, new int[] { 0, 1, 2, 3 })]
+        public void AddFirstArrTest(int[] sourceArray, int[] arr, int[] expected)
         {
+            list = new LinkedList(sourceArray);
             list.AddFirst(arr);
             int[] actual = list.ToArray();
             Assert.AreEqual(expected, actual);
         }
 
-        [TestCase(new[] { 17, 24, 1 }, new int[] { 17, 24, 1 })]
-        [TestCase(new[] { 0 }, new int[] { 0 })]
-        public void AddLastArrTest(int[] arr, int[] expected)
+        [TestCase(new[] { 1, 2, 3 }, new[] { 17, 24, 1 }, new int[] { 1, 2, 3, 17, 24, 1 })]
+        [TestCase(new[] { 1, 2, 3 }, new[] { -3, -9 }, new int[] { 1, 2, 3, -3, -9 })]
+        [TestCase(new[] { 1, 2, 3 }, new[] { 0 }, new int[] { 1, 2, 3, 0 })]
+        public void AddLastArrTest(int[] sourceArray, int[] arr, int[] expected)
         {
+            list = new LinkedList(sourceArray);
             list.AddLast(arr);
             int[] actual = list.ToArray();
             Assert.AreEqual(expected, actual);
         }
 
         [TestCase(0, new[] { 8, 9, 10 }, new int[] { 8, 9, 10, 0, 1, 2, 3 })]
+        [TestCase(1, new[] { 8, 9, 10 }, new int[] { 0, 8, 9, 10, 1, 2, 3 })]
         [TestCase(2, new[] { 8, 9, 10 }, new int[] { 0, 1, 8, 9, 10, 2, 3 })]
+        [TestCase(3, new[] { 8, 9, 10 }, new int[] { 0, 1, 2, 8, 9, 10, 3 })]
         public void AddAtArrTest(int idx, int[] arr, int[] expected)
         {
             list = new LinkedList(new int[] { 0, 1, 2, 3 });
@@ -319,7 +325,6 @@ namespace HomeWork6.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        
         [TestCase(8)]
         public void MaxTest(int expected)
         {
@@ -336,7 +341,6 @@ namespace HomeWork6.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        
         [TestCase(3)]
         public void IndexOfMaxTest(int expected)
         {
@@ -353,28 +357,28 @@ namespace HomeWork6.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        //[TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { -7, -1, -1, 0, 1, 4, 4, 12 })]
-        //[TestCase(new[] { 0 }, new[] { 0 })]
-        //[TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { -8, 1, 2, 3, 5, 7, 9, 43 })]
-        //public void SortTest(int[] sourceArray, int[] expected)
-        ////- сортировка по возрастанию
-        //{
-        //    ArrayList array = new ArrayList(sourceArray);
-        //    array.Sort();
-        //    int[] actual = array.ToArray();
-        //    Assert.AreEqual(expected, actual);
-        //}
+        [TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { -7, -1, -1, 0, 1, 4, 4, 12 })]
+        [TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { -8, 1, 2, 3, 5, 7, 9, 43 })]
+        [TestCase(new[] { 0 }, new[] { 0 })]
+        public void SortTest(int[] sourceArray, int[] expected)
+        //- сортировка по возрастанию
+        {
+            list = new LinkedList(sourceArray);
+            list.Sort();
+            int[] actual = list.ToArray();
+            Assert.AreEqual(expected, actual);
+        }
 
-        //[TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { -7, -1, -1, 0, 1, 4, 4, 12 })]
-        //[TestCase(new[] { 0 }, new[] { 0 })]
-        //[TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { -8, 1, 2, 3, 5, 7, 9, 43 })]
-        //public void SortDeskTest(int[] sourceArray, int[] expected)
-        ////- сортировка по возрастанию
-        //{
-        //    ArrayList array = new ArrayList(sourceArray);
-        //    array.Sort();
-        //    int[] actual = array.ToArray();
-        //    Assert.AreEqual(expected, actual);
-        //}
+        [TestCase(new[] { -1, -7, -1, 1, 12, 4, 4, 0 }, new[] { -7, -1, -1, 0, 1, 4, 4, 12 })]
+        [TestCase(new[] { 1, 5, 3, 9, 43, 2, 7, -8 }, new[] { -8, 1, 2, 3, 5, 7, 9, 43 })]
+        [TestCase(new[] { 0 }, new[] { 0 })]
+        public void SortDeskTest(int[] sourceArray, int[] expected)
+        //- сортировка по убыванию
+        {
+            list = new LinkedList(sourceArray);
+            list.Sort();
+            int[] actual = list.ToArray();
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

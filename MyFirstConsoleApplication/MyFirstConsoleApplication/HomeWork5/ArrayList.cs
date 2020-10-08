@@ -7,6 +7,73 @@ namespace HomeWork5
         private int size = 10;
         private int[] _array;
         private int _realLength = 0;
+        public int Length { get { return _realLength; } }
+
+        public int this[int i]
+        {
+            get { return _array[i]; }
+            set { _array[i] = value; }
+        }
+
+        private int[] AppendArrayByNum(int num) // appending in the end
+        {
+            int[] arr = new int[_array.Length + num];
+            for (int i = 0; i < _array.Length; i++)
+            {
+                arr[i] = _array[i];
+            }
+            _array = arr;
+            return _array;
+        }
+        private int[] AppendArrayByNumAtFront(int num)      // на длину массива или для инта на 1
+        {
+            int[] arr = new int[_array.Length + num];
+            int n = 0;
+            for (int i = num; i < _array.Length + num; i++)
+            {
+                arr[i] = _array[n];
+                n++;
+            }
+            _array = arr;
+            return _array;
+        }
+        private int[] AppendArrayAtIndex(int index, int value)
+        {
+            int[] arr = new int[_array.Length + 1];
+            for (int i = 0; i < index; i++)
+            {
+                arr[i] = _array[i];
+            }
+            for (int i = index + 1; i < _array.Length + 1; i++)
+            {
+                arr[i] = _array[i - 1];
+            }
+            arr[index] = value;
+            _array = arr;
+            return _array;
+        }
+        private int[] AppendArrayAtIndexforArray(int index, int[] values)
+        {
+            int[] arr = new int[_array.Length + values.Length];
+            for (int i = 0; i < index; i++)
+            {
+                arr[i] = _array[i];
+            }
+            int n = index;
+            for (int i = index + values.Length; i < _array.Length + values.Length; i++)
+            {
+                arr[i] = _array[n];
+                n++;
+            }
+            int m = 0;
+            for (int i = index; i < index + values.Length; i++)
+            {
+                arr[i] = values[m];
+                m++;
+            }
+            _array = arr;
+            return _array;
+        }
 
         public ArrayList()
         {
@@ -19,8 +86,8 @@ namespace HomeWork5
             for (int i = 0; i < array.Length; i++)
             {
                 _array[i] = array[i];
+                _realLength = array.Length;
             }
-            _realLength = array.Length;
         }
 
         public void AddFirst(int val)
@@ -323,6 +390,7 @@ namespace HomeWork5
 
         private int[] CopyArrayUp()
         {
+            size += _realLength;
             int[] newArray = new int[size];
 
             for (int i = 0; i < _array.Length; i++)

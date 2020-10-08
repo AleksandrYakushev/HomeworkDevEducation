@@ -49,3 +49,12 @@ C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWo
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.CoreCompileInputs.cache
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.dll
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.pdb
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.deps.json
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.dll
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.pdb
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.dll
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.pdb
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csprojAssemblyReference.cache
