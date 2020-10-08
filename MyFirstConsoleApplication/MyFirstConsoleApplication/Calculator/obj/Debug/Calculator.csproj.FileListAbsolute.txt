@@ -38,3 +38,13 @@ C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calcul
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
 C:\Users\Саша\AHW\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\Саша\Desktop\Repo\HomeworkDevEducation\MyFirstConsoleApplication\MyFirstConsoleApplication\Calculator\obj\Debug\Calculator.pdb

@@ -9,6 +9,12 @@ namespace HomeWork6
 
         private int Length { get; set; }
 
+        public int this[int i]
+        {
+            get { return Get(i); }
+            set { Set(i, value); }
+        }
+
         public LinkedList()
         {
         }
@@ -136,7 +142,6 @@ namespace HomeWork6
 
         }
 
-
         public int GetSize()
         {
             return Length;
@@ -164,7 +169,7 @@ namespace HomeWork6
             }
         }
 
-        public void RemoveFirst() //RemoveFirst() - удаление первого элемента
+        public void RemoveFirst()
         {
             if (Head == null)
             {
@@ -183,7 +188,7 @@ namespace HomeWork6
             Length--;
         }
 
-        public void RemoveLast() //RemoveLast() - удаление последнего элемента
+        public void RemoveLast()
         {
             if (Head == null)
             {
@@ -205,6 +210,7 @@ namespace HomeWork6
                 node = node.Next;
             }
             previous.Next = null;
+            Tail = node;
             Length--;
         }
 
@@ -270,6 +276,7 @@ namespace HomeWork6
                 previous = current;
                 current = current.Next;
             }
+
             Tail = current;
         }
 
@@ -305,7 +312,7 @@ namespace HomeWork6
         }
 
         public int[] ToArray()
-        { 
+        {
             int[] linkedListArray = new int[Length];
             Node node = Head;
             int i = 0;
@@ -314,7 +321,7 @@ namespace HomeWork6
                 linkedListArray[i++] = node.Value;
                 node = node.Next;
             }
-
+            Tail = node;
             return linkedListArray;
         }
 
@@ -350,19 +357,16 @@ namespace HomeWork6
 
         public void Reverse()
         {
-            Node tmp1;
-            Node tmp2 = null;
-            Node current = Head;
-            Tail = Head;
-
-            while (current != null)
+            Node tmp;
+            Node preHead = Head;
+            while (preHead.Next != null)
             {
-                tmp1 = current.Next;
-                current.Next = tmp2;
-                tmp2 = current;
-                current = tmp1;
+                tmp = preHead.Next;
+                preHead.Next = preHead.Next.Next;
+                tmp.Next = Head;
+                Head = tmp;
             }
-            Head = tmp2;
+            Tail = preHead;
         }
 
         public int Max() // - поиск значения максимального элемента
@@ -442,44 +446,65 @@ namespace HomeWork6
             return counter;
         }
 
-        //public void Sort()
-        //{
-        //    Node current = Head;
-        //    int counter = 0;
-        //    int min;
-        //    int tmp;
-        //    while (current != null)
-        //    {
-        //        for (int i = 0; i < counter; i++)
-        //        {
-        //            min = i;
-        //            for (int j = i + 1; j < counter - 1; j++)
-        //            {
-        //                if (current.Value < )
-        //        }
-        //            current = current.Next;
-        //            counter++;
-        //        }
-        //    }
+        public void Sort()
+        {
+            if (Head == null)
+            {
+                return;
+            }
 
-        //}
+            Node current = Head;
+            Node currentNext;
+            int tmp;
 
-        //public void SortDesc()  //- сортировка по убыванию
-        //{
-        //    for (int i = 1; i < _realLength; i++)
-        //    {
-        //        for (int j = 1; j < _realLength; j++)
-        //        {
-        //            int tmp;
-        //            if (_array[j] > _array[j - 1])
-        //            {
-        //                tmp = _array[j - 1];
-        //                _array[j - 1] = _array[j];
-        //                _array[j] = tmp;
-        //            }
-        //        }
-        //    }
-        //}
+            while (current != null)
+            {
+                currentNext = current.Next;
+
+                while (currentNext != null)
+                {
+                    if (current.Value > currentNext.Value)
+                    {
+                        tmp = currentNext.Value;
+                        currentNext.Value = current.Value;
+                        current.Value = tmp;
+                    }
+
+                    currentNext = currentNext.Next;
+                }
+
+                current = current.Next;
+            }
+        }
+
+        public void SortDesc()  //- сортировка по убыванию
+        {
+            if (Head == null)
+            {
+                return;
+            }
+
+            Node current = Head;
+            Node currentNext;
+            int tmp;
+
+            while (current != null)
+            {
+                currentNext = current.Next;
+                while (currentNext != null)
+                {
+                    if (current.Value < currentNext.Value)
+                    {
+                        tmp = current.Value;
+                        current.Value = currentNext.Value;
+                        currentNext.Value = tmp;
+                    }
+
+                    currentNext = currentNext.Next;
+                }
+                current = current.Next;
+            }
+        }
 
         public void PrintList()
         {

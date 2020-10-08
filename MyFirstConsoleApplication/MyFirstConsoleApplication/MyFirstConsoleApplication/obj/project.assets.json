@@ -1373,6 +1373,22 @@
         "runtime": {
           "bin/placeholder/HomeWork7.dll": {}
         }
+      },
+      "HomeWork7.Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "HomeWork7": "1.0.0",
+          "Microsoft.NET.Test.Sdk": "16.4.0",
+          "NUnit3TestAdapter": "3.15.1",
+          "nunit": "3.12.0"
+        },
+        "compile": {
+          "bin/placeholder/HomeWork7.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomeWork7.Tests.dll": {}
+        }
       }
     }
   },
@@ -4826,6 +4842,11 @@
       "type": "project",
       "path": "../HomeWork7/HomeWork7.csproj",
       "msbuildProject": "../HomeWork7/HomeWork7.csproj"
+    },
+    "HomeWork7.Tests/1.0.0": {
+      "type": "project",
+      "path": "../HomeWork7.Tests/HomeWork7.Tests.csproj",
+      "msbuildProject": "../HomeWork7.Tests/HomeWork7.Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4841,7 +4862,8 @@
       "HomeWork5.Tests >= 1.0.0",
       "HomeWork6 >= 1.0.0",
       "HomeWork6.Tests >= 1.0.0",
-      "HomeWork7 >= 1.0.0"
+      "HomeWork7 >= 1.0.0",
+      "HomeWork7.Tests >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4903,6 +4925,9 @@
             "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork6\\HomeWork6.csproj": {
               "projectPath": "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork6\\HomeWork6.csproj"
             },
+            "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork7.Tests\\HomeWork7.Tests.csproj": {
+              "projectPath": "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork7.Tests\\HomeWork7.Tests.csproj"
+            },
             "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork7\\HomeWork7.csproj": {
               "projectPath": "C:\\Users\\Саша\\Desktop\\Repo\\HomeworkDevEducation\\MyFirstConsoleApplication\\MyFirstConsoleApplication\\HomeWork7\\HomeWork7.csproj"
             }
@@ -4932,7 +4957,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
